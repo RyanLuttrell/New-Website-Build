@@ -1,0 +1,29 @@
+body {
+    font-family: poppins;
+    margin: 0px;
+}
+
+.companyLogo {
+    padding: 10px;
+}
+
+header {
+    height: fit-content;
+    background-color: royalblue;
+}
+
+.mainNav a {
+    text-decoration: none;
+    font-weight: 100;
+    color: black;
+    margin: 2px;
+    border: 1px solid black;
+    width: 100px;
+    text-align: center;
+    display: inline-block;
+}
+
+.mainNav a:hover {
+    background-color: black;
+    color: white;
+}
